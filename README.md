@@ -13,4 +13,4 @@ Graphs: Population graphs directory
 
 Coding Files and resources: Proj 3 collection
 
-Presentation: Presentation file
+Presentation: Presentation directory
